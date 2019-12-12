@@ -1,0 +1,41 @@
+NLTK: Natural Language Toolkit
+
+word tokenization
+sentence tokenization
+stopwords removal
+stopwords in english
+parts of speech tagging
+
+tfidf term frequency
+document frequency
+divide by df
+tfidf(t,d,D)= tf(t,d). idf(t,D)
+inverse document frequency: log(D)/(d belongs to D)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+support  machine
+udemy A TO Z NLP
+Random forest-ml classifiers
+fast AI course in NLP------ Richael Thomas
